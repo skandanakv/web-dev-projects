@@ -17,6 +17,8 @@ This repository contains all the projects, code snippets, and exercises I'm comp
 - EJS Templates
 - Git & GitHub
 
+-many more still in progress....
+
 
 📌 Note
 These are practice projects for learning purposes only. The code follows course guidance and may not represent production-level quality.
