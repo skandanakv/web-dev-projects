@@ -1,0 +1,39 @@
+.img-fluid{
+    width: 40%;
+    height: 50px;
+}
+
+.custom-heading{
+    font-family: 'georgia', sans-serif;
+    font-size: 66px;
+    color: #333;
+margin-left: 100px;
+}
+
+.lead{
+    margin-left: 100px;
+    
+}
+
+.card-group{
+    margin-top: 40px;
+}
+
+/* .card-title{
+    font-family: 'georgia', sans-serif;
+} */
+
+.centrecard-text{
+    text-align: center;
+}
+
+
+.text-body-emphasis{
+    text-align: left;
+    font-family: 'georgia', sans-serif;
+    color: black;
+}
+
+
+
+
